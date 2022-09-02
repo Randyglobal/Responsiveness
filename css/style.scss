@@ -1,0 +1,12 @@
+@import './variables';
+@mixin name {
+    
+}
+@import './header';
+@import './section1';
+@import'./section2';
+@import './section3';
+@import './largescreen.scss';
+@import './normal.scss';
+@import './phone';
+@import './mobile';

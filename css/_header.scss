@@ -1,0 +1,24 @@
+.nav{
+    width: 70%;
+    height: 40px;
+    display: flex;
+    text-align: center;
+    margin: 10px auto 0 auto;
+    justify-content: space-between;
+}
+.logo
+{
+    font-family: var(--logo-font-family)
+}
+.navigate ul
+{
+  display: flex;
+}
+li, a {
+    text-decoration: none;
+    list-style: none;
+    margin-left: 10px;
+    color: var(--text_color);
+    font-family: var(--text-font-family);
+    margin-top: 5px;
+}
